@@ -8,11 +8,6 @@ icon: "bolt"
 toc: true
 description: "Get started with the Model Context Protocol (MCP)"
 publishdate: "2025-08-07T05:33:22+01:00"
-keywords:
-- Model Context Protocol
-- MCP
-- AI
-- AI Tools
 twitter:
   card: "summary"
   site: "@anktsrkr"
