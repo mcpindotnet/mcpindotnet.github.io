@@ -114,7 +114,7 @@ enableGitInfo = true
         indexName = "prod_mcpindotnet.github.io_docs"               # Index Name to perform search on (or set env variable HUGO_PARAM_DOCSEARCH_indexName)
 
     [params.feedback]
-        enabled = false
+        enabled = true
         emoticonTpl = true
         eventDest = ["google"]
         emoticonEventName = "Feedback"
