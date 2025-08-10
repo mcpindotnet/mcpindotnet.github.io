@@ -111,7 +111,7 @@ enableGitInfo = true
     [params.docsearch] # Parameters for DocSearch
         appID     = "7O13WPPE1Q"                       # Algolia Application ID (or set env variable HUGO_PARAM_DOCSEARCH_appID)
         apiKey    = "dd965b8a659267ed2381b58d935cfb08" # Algolia Search-Only API (Public) Key (or set env variable HUGO_PARAM_DOCSEARCH_apiKey)
-        indexName = "mcpindotnet_github_io_7o13wppe1q_pages"               # Index Name to perform search on (or set env variable HUGO_PARAM_DOCSEARCH_indexName)
+        indexName = "mcpindotnet_github_io_7o13wppe1q_articles"               # Index Name to perform search on (or set env variable HUGO_PARAM_DOCSEARCH_indexName)
 
     [params.feedback]
         enabled = false
