@@ -1,12 +1,10 @@
 ---
-weight: 200
+weight: 2120
 title: "Layers"
-description: "Understanding MCP layers"
-icon: menu_book
+description: "MCP consists of two layers"
+icon: layers
 date: 2025-08-07T05:30:22+01:00
 lastmod: 2025-08-07T05:30:22+01:00
 draft: false
 images: []
 ---
-
-{{< alert context="info" text="TODO" />}}

@@ -1,5 +1,5 @@
 ---
-weight: 100
+weight: 2100
 title: "Architecture Overview"
 description: "Let’s go deeper into how the Model Context Protocol (MCP) actually works under the hood. "
 icon: menu_book

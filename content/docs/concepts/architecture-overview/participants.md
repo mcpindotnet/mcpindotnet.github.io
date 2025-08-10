@@ -1,8 +1,8 @@
 ---
-weight: 100
+weight: 2110
 title: "Participants"
 description: "Understanding MCP participants"
-icon: menu_book
+icon: "groups_3"
 date: 2025-08-07T05:30:22+01:00
 lastmod: 2025-08-07T05:30:22+01:00
 draft: false

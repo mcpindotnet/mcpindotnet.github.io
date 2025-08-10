@@ -1,5 +1,5 @@
 ---
-weight: 300
+weight: 4300
 title: "ModelContextProtocol.AspNetCore"
 description: "Learn the core architecture of MCP"
 icon: menu_book

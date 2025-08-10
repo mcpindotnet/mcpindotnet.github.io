@@ -1,8 +1,8 @@
 ---
-weight: 100
+weight: 2400
 title: "Versioning"
-description: "Learn about MCP specification"
-icon: menu_book
+description: "Learn about MCP specification versioning"
+icon: difference
 lead: ""
 date: 2025-08-07T05:30:22+01:00
 lastmod: 2025-08-07T05:30:22+01:00
@@ -10,4 +10,26 @@ draft: false
 images: []
 ---
 
-{{< alert context="info" text="TODO" />}}
+The Model Context Protocol uses string-based version identifiers following the format
+`YYYY-MM-DD`, to indicate the last date backwards incompatible changes were made.
+## Revisions
+
+Revisions may be marked as:
+
+* **Draft**: in-progress specifications, not yet ready for consumption.
+* **Current**: the current protocol version, which is ready for use and may continue to
+  receive backwards compatible changes.
+* **Final**: past, complete specifications that will not be changed.
+
+The **current** protocol version is  **2025-06-18**.
+
+## Negotiation
+
+Version negotiation happens during
+[initialization](/docs/concepts/architecture-overview/layers/data-layer/lifecycle-management/#initialization). Clients and
+servers **MAY** support multiple protocol versions simultaneously, but they **MUST**
+agree on a single version to use for the session.
+
+The protocol provides appropriate error handling if version negotiation fails, allowing
+clients to gracefully terminate connections when they cannot find a version compatible
+with the server.

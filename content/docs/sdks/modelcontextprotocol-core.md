@@ -1,5 +1,5 @@
 ---
-weight: 200
+weight: 4200
 title: "ModelContextProtocol.Core"
 description: "Learn the core architecture of MCP"
 icon: menu_book
