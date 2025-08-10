@@ -26,7 +26,7 @@ keywords: [
   "how to build an MCP server in C#",
   "step by step MCP C# example",
   "MCP integration .NET Azure Copilot",
-  "MCP .NET tutorial 2025"
+  "MCP .NET tutorial 2025",
   "how to create an MCP server in C#",
   "step-by-step guide to Model Context Protocol in .NET",
   "MCP with Semantic Kernel C# tutorial",
@@ -54,7 +54,7 @@ keywords: [
   "Model Context Protocol C# example",
   "MCP agent framework .NET",
   "OpenAI MCP .NET"
-]10
+]
 ---
 Prompts are designed to be **user-controlled**, meaning they are exposed from servers to
 clients with the intention of the user being able to explicitly select them for use.

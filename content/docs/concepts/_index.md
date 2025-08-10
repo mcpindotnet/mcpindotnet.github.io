@@ -10,14 +10,6 @@ description: "Learn the core concepts and architecture of MCP"
 publishdate: "2025-08-07T05:33:22+01:00"
 tags: ["Beginners"]
 categories: [""]
-
-twitter:
-  card: "summary"
-  site: "@anktsrkr"
-  creator: "@anktsrkr"
-  title: "What is Model Context Protocol?"
-  description: "Get started with the Model Context Protocol (MCP)"
-  image: ""
 keywords: [
   "Model Context Protocol .NET",
   "MCP C# SDK",
@@ -36,7 +28,7 @@ keywords: [
   "how to build an MCP server in C#",
   "step by step MCP C# example",
   "MCP integration .NET Azure Copilot",
-  "MCP .NET tutorial 2025"
+  "MCP .NET tutorial 2025",
   "how to create an MCP server in C#",
   "step-by-step guide to Model Context Protocol in .NET",
   "MCP with Semantic Kernel C# tutorial",
@@ -65,4 +57,11 @@ keywords: [
   "MCP agent framework .NET",
   "OpenAI MCP .NET"
 ]
+twitter:
+  card: "summary"
+  site: "@anktsrkr"
+  creator: "@anktsrkr"
+  title: "What is Model Context Protocol?"
+  description: "Get started with the Model Context Protocol (MCP)"
+  image: ""
 ---

@@ -26,7 +26,7 @@ keywords: [
   "how to build an MCP server in C#",
   "step by step MCP C# example",
   "MCP integration .NET Azure Copilot",
-  "MCP .NET tutorial 2025"
+  "MCP .NET tutorial 2025",
   "how to create an MCP server in C#",
   "step-by-step guide to Model Context Protocol in .NET",
   "MCP with Semantic Kernel C# tutorial",
