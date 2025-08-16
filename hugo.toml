@@ -4,7 +4,6 @@ title = 'MCP In .NET'
 contentDir = "content"
 enableEmoji = true
 enableGitInfo = true 
-enableRobotsTXT=true
 
 [services]
   [services.googleAnalytics]

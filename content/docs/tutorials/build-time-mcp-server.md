@@ -299,9 +299,7 @@ To configure Visual Studio Code to work with the MCP server, we just need to add
 ```
 When we go into GitHub Copilot and toggle on Agent mode, Let's ask the question "What is the current date and time in London?" 
 
-<video width="640" height="480" controls>
-  <source src="/videos/video1.mp4" type="video/mp4">
-</video>
+{{<video src="/videos/vs-code-video.mp4" type="video/mp4" loop="true" muted="true" >}}
 
 As we can see in the video, the response from the MCP server includes the current date and time in London, formatted according to the specified output schema.
 
@@ -325,10 +323,7 @@ To configure LM Studio to work with the MCP server, we need to add a new server 
 
 Let's ask the same question in LM Studio: "What is the current date and time in London?" 
 
-
-<video width="640" height="480" controls>
-  <source src="/videos/video2.mp4" type="video/mp4">
-</video>
+{{<video src="/videos/lm-studio-video.mp4" type="video/mp4" loop="true" muted="true" >}}
 
 Same as VS Code, the response from the MCP server includes the current date and time in London, formatted according to the specified output schema.
 
