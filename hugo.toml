@@ -1,4 +1,4 @@
-baseURL = 'https://mcpindotnet.github.io'
+baseURL = 'https://mcpindotnet.github.io/'
 languageCode = "en-GB"
 title = 'MCP In .NET'
 contentDir = "content"
