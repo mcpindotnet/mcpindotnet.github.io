@@ -10,6 +10,9 @@ description: "Get started with the Model Context Protocol (MCP)"
 publishdate: "2025-08-07T05:33:22+01:00"
 keywords: [
   "Model Context Protocol .NET",
+  "MCP dotnet",
+  "MCP cSharp",
+  "MCP in C#",
   "MCP C# SDK",
   "MCP server in C#",
   "MCP client .NET",
